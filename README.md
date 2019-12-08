@@ -3,7 +3,7 @@ A bot that uses computer vision techniques to play Kaboom! on the Atari 2600
 
 You can view the showcase of this program [here](https://youtu.be/1uxlU903Zi8)
 
-##System and Software information
+## System and Software information
 This program was designed for use on a Windows 10 computer.
 
 The game is being played on the Stella emulation software version 6.0.2 with the following settings:
